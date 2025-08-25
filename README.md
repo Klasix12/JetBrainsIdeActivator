@@ -1,4 +1,4 @@
-any jetbrains ide activator
+any jetbrains ide activator (windows only)
 
 how to use:
 1) download release
